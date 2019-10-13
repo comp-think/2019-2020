@@ -19,7 +19,7 @@ This space contains all the material related to the [Computational Thinking and 
 * *add* = additional material 
 
 1. [14/10/19, *the*] Introduction to the course
-   * slides ([HTML](https://comp-think.github.io/2019-2020/slides/00%20-%20Course%20introduction.html))
+   * slides: [HTML](https://comp-think.github.io/2019-2020/slides/00%20-%20Course%20introduction.html)
    <hr />
 2. [14/10/19, *the*] Introduction to Computational Thinking 
    * slides: [HTML](https://comp-think.github.io/2019-2020/slides/01%20-%20Introduction%20to%20Computational%20Thinking.html)
