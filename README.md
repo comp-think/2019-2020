@@ -27,7 +27,9 @@ This space contains all the material related to the [Computational Thinking and 
    * exercises: [1](https://github.com/comp-think/2019-2020/issues/1), [2](https://github.com/comp-think/2019-2020/issues/2), [3](https://github.com/comp-think/2019-2020/issues/3)
    <hr />
 3. [16/10/19, *the*] Algorithms 
+   * slides: [HTML](https://comp-think.github.io/2019-2020/slides/02%20-%20Algorithms.html)
    * lecture notes: [PDF](https://comp-think.github.io/book/02.pdf), [Google Docs](https://tinyurl.com/comp-think-02)
+   * exercises: [1](https://github.com/comp-think/2019-2020/issues/4), [2](https://github.com/comp-think/2019-2020/issues/5), [3](https://github.com/comp-think/2019-2020/issues/6)
 
 
 ### Schedule
