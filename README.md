@@ -40,7 +40,10 @@ This space contains all the material related to the [Computational Thinking and 
    * slides: [HTML](https://comp-think.github.io/2019-2020/slides/04%20-%20Programming%20languages.html)
    * lecture notes: [PDF](https://comp-think.github.io/book/04.pdf), [Google Docs](https://tinyurl.com/comp-think-04)
    * Python: [first_algorithm_empty.py](https://comp-think.github.io/python/first_algorithm_empty.py), [first_algorithm_no_assignments.py](https://comp-think.github.io/python/first_algorithm_no_assignments.py), [first_algorithm.py](https://comp-think.github.io/python/first_algorithm.py)
-   * exercises: [1](https://github.com/comp-think/2019-2020/issues/9), [2](https://github.com/comp-think/2019-2020/issues/10), [3](https://github.com/comp-think/2019-2020/issues/11)
+   * exercises: [1](https://github.com/comp-think/2019-2020/issues/9), [2](https://github.com/comp-think/2019-2020/issues/10), [3](https://github.com/comp-think/2019-2020/issues/11)<hr />
+6. [23/10/19, *lab*] 1st Lesson
+    * instructions: [GitHub](https://github.com/marilenadaquino/computational_thinking/blob/master/ay-2019-2020/installation.md)
+    <hr />
 
 
 
