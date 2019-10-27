@@ -44,6 +44,9 @@ This space contains all the material related to the [Computational Thinking and 
 6. [23/10/19, *lab*] 1st Lesson
     * instructions: [GitHub](https://github.com/marilenadaquino/computational_thinking/blob/master/ay-2019-2020/installation.md)
     <hr />
+7. [28/10/19, *the*] Organising information: ordered structures
+   * lecture notes: [PDF](https://comp-think.github.io/book/05.pdf), [Google Docs](https://tinyurl.com/comp-think-05)
+   * Python: [define_functions.py](https://comp-think.github.io/python/define_functions.py), [list_instructions.py](https://comp-think.github.io/python/list_instructions.py), [stack_instructions.py](https://comp-think.github.io/python/stack_instructions.py), [queue_instructions.py](https://comp-think.github.io/python/queue_instructions.py)
 
 
 
