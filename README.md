@@ -64,10 +64,10 @@ This space contains all the material related to the [Computational Thinking and 
     <tr><td>28/10/19</td><td>9:30-11:30</td><td>Organising information: ordered structures</td></tr>
     <tr><td>30/10/19</td><td>9:30-11:30</td><td><span>Laboratory</span></td></tr>
     <tr><td>04/11/19</td><td>9:30-11:30</td><td>Brute-force algorithms</td></tr>
-    <tr><td>06/11/19</td><td>9:30-11:30</td><td><span>Laboratory</span></td></tr>
-    <tr><td>11/11/19</td><td>9:30-11:30</td><td>Organising information: unordered structures</td></tr>
+    <tr><td>06/11/19</td><td>9:30-11:30</td><td>Organising information: unordered structures</td></tr>
+    <tr><td>11/11/19</td><td>9:30-11:30</td><td>Recursion</td></tr>
     <tr><td>13/11/19</td><td>9:30-11:30</td><td><span>Laboratory</span></td></tr>
-    <tr><td>15/11/19</td><td>12:30-14:30</td><td>Recursion</td></tr>
+    <tr><td>15/11/19</td><td>12:30-14:30</td><td><span>Laboratory</span></td></tr>
     <tr><td>18/11/19</td><td>9:30-11:30</td><td>Divide and conquer algorithms</td></tr>
     <tr><td>20/11/19</td><td>9:30-11:30</td><td><span>Laboratory</span></td></tr>
     <tr><td>25/11/19</td><td>9:30-11:30</td><td>Dynamic programming algorithms <strong>+ evaluation questionnaire</strong></td></tr>
