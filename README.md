@@ -25,26 +25,26 @@ This space contains all the material related to the [Computational Thinking and 
    * slides: [HTML](https://comp-think.github.io/2019-2020/slides/01%20-%20Introduction%20to%20Computational%20Thinking.html)
    * lecture notes: [PDF](https://comp-think.github.io/book/01.pdf), [Google Docs](https://tinyurl.com/comp-think-01)
    * exercises: [1](https://github.com/comp-think/2019-2020/issues/1), [2](https://github.com/comp-think/2019-2020/issues/2), [3](https://github.com/comp-think/2019-2020/issues/3)
-   * solutions: [1](https://comp-think.github.io/keys/01/exercise-1.md), [2](https://comp-think.github.io/keys/01/exercise-2.md), [3](https://comp-think.github.io/keys/01/exercise-3.md)
+   * solutions: [1](https://comp-think.github.io/keys/01/exercise-1), [2](https://comp-think.github.io/keys/01/exercise-2), [3](https://comp-think.github.io/keys/01/exercise-3)
    <hr />
 3. [16/10/19, *the*] Algorithms 
    * slides: [HTML](https://comp-think.github.io/2019-2020/slides/02%20-%20Algorithms.html)
    * lecture notes: [PDF](https://comp-think.github.io/book/02.pdf), [Google Docs](https://tinyurl.com/comp-think-02)
    * exercises: [1](https://github.com/comp-think/2019-2020/issues/4), [2](https://github.com/comp-think/2019-2020/issues/5), [3](https://github.com/comp-think/2019-2020/issues/6)
-   * solutions [1](https://comp-think.github.io/keys/02/exercise-1.md), [2](https://comp-think.github.io/keys/02/exercise-2.png), 3([a](https://comp-think.github.io/keys/02/exercise-3-def1.png), [b](https://comp-think.github.io/keys/02/exercise-3-def2.png))
+   * solutions [1](https://comp-think.github.io/keys/02/exercise-1), [2](https://comp-think.github.io/keys/02/exercise-2), [3](https://comp-think.github.io/keys/02/exercise-3)
    <hr />
 4. [18/10/19, *the*] Computability  
    * slides: [HTML](https://comp-think.github.io/2019-2020/slides/03%20-%20Computability.html)
    * lecture notes: [PDF](https://comp-think.github.io/book/03.pdf), [Google Docs](https://tinyurl.com/comp-think-03)
    * exercises: [1](https://github.com/comp-think/2019-2020/issues/7), [2](https://github.com/comp-think/2019-2020/issues/8), [3](https://github.com/comp-think/2019-2020/issues/15)
-   * solutions: [1](https://comp-think.github.io/keys/03/exercise-1.yaml), [2](https://comp-think.github.io/keys/03/exercise-2.yaml), [3](https://comp-think.github.io/keys/03/exercise-3.yaml)
+   * solutions: [1](https://comp-think.github.io/keys/03/exercise-1), [2](https://comp-think.github.io/keys/03/exercise-2), [3](https://comp-think.github.io/keys/03/exercise-3)
    <hr />
 5. [21/10/19, *the*] Programming languages  
    * slides: [HTML](https://comp-think.github.io/2019-2020/slides/04%20-%20Programming%20languages.html)
    * lecture notes: [PDF](https://comp-think.github.io/book/04.pdf), [Google Docs](https://tinyurl.com/comp-think-04)
    * Python: [first_algorithm_empty.py](https://comp-think.github.io/python/first_algorithm_empty.py), [first_algorithm_no_assignments.py](https://comp-think.github.io/python/first_algorithm_no_assignments.py), [first_algorithm.py](https://comp-think.github.io/python/first_algorithm.py)
    * exercises: [1](https://github.com/comp-think/2019-2020/issues/9), [2](https://github.com/comp-think/2019-2020/issues/10), [3](https://github.com/comp-think/2019-2020/issues/11)
-   * solutions: [1](https://comp-think.github.io/keys/04/exercise-1.md), [2](https://comp-think.github.io/keys/04/exercise-2.md), [3](https://comp-think.github.io/keys/04/exercise-3.py)
+   * solutions: [1](https://comp-think.github.io/keys/04/exercise-1), [2](https://comp-think.github.io/keys/04/exercise-2), [3](https://comp-think.github.io/keys/04/exercise-3)
    <hr />
 6. [23/10/19, *lab*] 1st Lesson
     * instructions: [GitHub](https://github.com/marilenadaquino/computational_thinking/blob/master/ay-2019-2020/installation.md)
