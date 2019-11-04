@@ -55,7 +55,10 @@ This space contains all the material related to the [Computational Thinking and 
    * Python: [define_functions.py](https://comp-think.github.io/python/define_functions.py), [list_instructions.py](https://comp-think.github.io/python/list_instructions.py), [stack_instructions.py](https://comp-think.github.io/python/stack_instructions.py), [queue_instructions.py](https://comp-think.github.io/python/queue_instructions.py)
    * exercises: [1](https://github.com/comp-think/2019-2020/issues/12), [2](https://github.com/comp-think/2019-2020/issues/13), [3](https://github.com/comp-think/2019-2020/issues/14)
    <hr />
-8. [4/11/19, *the*] Brute-force algorithms
+8. [30/10/19, *lab*] 2nd Lesson
+    * material: [GitHub](https://github.com/marilenadaquino/computational_thinking/blob/master/ay-2019-2020/1_lesson/README.md)
+   <hr />
+9. [4/11/19, *the*] Brute-force algorithms
    * slides: [HTML](https://comp-think.github.io/2019-2020/slides/06%20-%20Brute-force%20algorithms.html)
    * lecture notes: [PDF](https://comp-think.github.io/book/06.pdf), [Google Docs](https://comp-think.github.io/book/06)
    * Python: [stack_from_list.py](https://comp-think.github.io/python/stack_from_list.py), [run_forever.py](https://comp-think.github.io/python/run_forever.py), [linear_search.py](https://comp-think.github.io/python/linear_search.py), [insertion_sort.py](https://comp-think.github.io/python/insertion_sort.py)
