@@ -65,9 +65,11 @@ This space contains all the material related to the [Computational Thinking and 
    * exercises: [1](https://github.com/comp-think/2019-2020/issues/16), [2](https://github.com/comp-think/2019-2020/issues/17), [3](https://github.com/comp-think/2019-2020/issues/18), [4](https://github.com/comp-think/2019-2020/issues/19), [5](https://github.com/comp-think/2019-2020/issues/20)
    * additional material: [Atari Go](https://comp-think.github.io/material/atari-go.pdf) + [special exercise](https://github.com/comp-think/2019-2020/issues/21)
    <hr />
-9. [6/11/19, *the*] Organising information: unordered structures
+10. [6/11/19, *the*] Organising information: unordered structures
+   * slides: [HTML](https://comp-think.github.io/2019-2020/slides/07%20-%20Organising%20information%20-%20unordered%20structures.html)
    * lecture notes: [PDF](https://comp-think.github.io/book/07.pdf), [Google Docs](https://comp-think.github.io/book/07)
    * Python: [set_instructions.py](https://comp-think.github.io/python/set_instructions.py), [dictionary_instructions.py](https://comp-think.github.io/python/dictionary_instructions.py)
+   * exercises: [1](https://github.com/comp-think/2019-2020/issues/22), [2](https://github.com/comp-think/2019-2020/issues/23), [3](https://github.com/comp-think/2019-2020/issues/24)
 
 
 ### Schedule
