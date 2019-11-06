@@ -54,6 +54,7 @@ This space contains all the material related to the [Computational Thinking and 
    * lecture notes: [PDF](https://comp-think.github.io/book/05.pdf), [Google Docs](https://comp-think.github.io/book/05)
    * Python: [define_functions.py](https://comp-think.github.io/python/define_functions.py), [list_instructions.py](https://comp-think.github.io/python/list_instructions.py), [stack_instructions.py](https://comp-think.github.io/python/stack_instructions.py), [queue_instructions.py](https://comp-think.github.io/python/queue_instructions.py)
    * exercises: [1](https://github.com/comp-think/2019-2020/issues/12), [2](https://github.com/comp-think/2019-2020/issues/13), [3](https://github.com/comp-think/2019-2020/issues/14)
+   * solutions: [1](https://comp-think.github.io/keys/05/exercise-1), [2](https://comp-think.github.io/keys/05/exercise-2), [3](https://comp-think.github.io/keys/05/exercise-3)
    <hr />
 8. [30/10/19, *lab*] 2nd Lesson
     * material: [GitHub](https://github.com/marilenadaquino/computational_thinking/blob/master/ay-2019-2020/1_lesson/README.md)
