@@ -64,6 +64,7 @@ This space contains all the material related to the [Computational Thinking and 
    * lecture notes: [PDF](https://comp-think.github.io/book/06.pdf), [Google Docs](https://comp-think.github.io/book/06)
    * Python: [stack_from_list.py](https://comp-think.github.io/python/stack_from_list.py), [run_forever.py](https://comp-think.github.io/python/run_forever.py), [linear_search.py](https://comp-think.github.io/python/linear_search.py), [insertion_sort.py](https://comp-think.github.io/python/insertion_sort.py)
    * exercises: [1](https://github.com/comp-think/2019-2020/issues/16), [2](https://github.com/comp-think/2019-2020/issues/17), [3](https://github.com/comp-think/2019-2020/issues/18), [4](https://github.com/comp-think/2019-2020/issues/19), [5](https://github.com/comp-think/2019-2020/issues/20)
+   * solutions: [1](https://comp-think.github.io/keys/06/exercise-1), [2](https://comp-think.github.io/keys/06/exercise-2), [3](https://comp-think.github.io/keys/06/exercise-3), [4](https://comp-think.github.io/keys/06/exercise-4), [5](https://comp-think.github.io/keys/06/exercise-5)
    * additional material: [Atari Go](https://comp-think.github.io/material/atari-go.pdf) + [special exercise](https://github.com/comp-think/2019-2020/issues/21)
    <hr />
 10. [6/11/19, *the*] Organising information: unordered structures
