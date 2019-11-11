@@ -72,10 +72,13 @@ This space contains all the material related to the [Computational Thinking and 
     * lecture notes: [PDF](https://comp-think.github.io/book/07.pdf), [Google Docs](https://comp-think.github.io/book/07)
     * Python: [set_instructions.py](https://comp-think.github.io/python/set_instructions.py), [dictionary_instructions.py](https://comp-think.github.io/python/dictionary_instructions.py)
     * exercises: [1](https://github.com/comp-think/2019-2020/issues/22), [2](https://github.com/comp-think/2019-2020/issues/23), [3](https://github.com/comp-think/2019-2020/issues/24)
+    * solutions: [1](https://comp-think.github.io/keys/07/exercise-1), [2](https://comp-think.github.io/keys/07/exercise-2), [3](https://comp-think.github.io/keys/07/exercise-3)
     <hr />
 11. [11/11/19, *the*] Recursion
+    * slides: [HTML](https://comp-think.github.io/2019-2020/slides/08%20-%20Recursion.html)
     * lecture notes: [PDF](https://comp-think.github.io/book/08.pdf), [Google Docs](https://comp-think.github.io/book/08)
     * Python: [run_forever_recursive.py](https://comp-think.github.io/python/run_forever_recursive.py), [multiplication.py](https://comp-think.github.io/python/multiplication.py)
+    * exercises: [1](https://github.com/comp-think/2019-2020/issues/25), [2](https://github.com/comp-think/2019-2020/issues/26)
 
 
 ### Schedule
