@@ -74,7 +74,22 @@ This space contains all the material related to the [Computational Thinking and 
     * exercises: [1](https://github.com/comp-think/2019-2020/issues/22), [2](https://github.com/comp-think/2019-2020/issues/23), [3](https://github.com/comp-think/2019-2020/issues/24)
     * solutions: [1](https://comp-think.github.io/keys/07/exercise-1), [2](https://comp-think.github.io/keys/07/exercise-2), [3](https://comp-think.github.io/keys/07/exercise-3)
     <hr />
-11. [11/11/19, *the*] Recursion
+11. [28/11/18, *exa*] First partial examination
+    * content: [test 1](https://comp-think.github.io/2018-2019/exams/first-partial-examination-01.pdf), [test 2](https://comp-think.github.io/2018-2019/exams/first-partial-examination-02.pdf)
+    * solutions:
+        * exercise 1:
+            * solution to "Highlight whether the data structures in the table (queue, set, list) are compliant or not with the characteristics shown": queue and list are compliant with all the characteristics, while set is compliant with countability only.
+            * solution to "Highlight whether the data structures in the table (dictionary, queue, stack) are compliant or not with the characteristics shown": queue and stack are compliant with all the characteristics, while dictionary is compliant with countability only.
+        * exercise 2:
+            * solution to "Describe what is the form of the production rules of a regular grammar": `<non-terminal> ::= "terminal"` and `<non-terminal> ::= "terminal" <non-terminal>`. 
+            * solution to "Describe what is the form of the production rules of a context-free grammar": `<non-terminal> ::= γ`, being `γ` any possible combination of terminal and non-terminal symbols.
+        * exercise 3: an execution of the flowchart will modify the input string until it is not lesser than four characters, and then it will compare the last character of the string. In particular, if such character is not contained in the string `"did you get it?"`, the character will be returned, otherwise the input string (as modified by the execution of the flowchart) will be returned.
+        * exercise 4: [Python script](https://comp-think.github.io/exercises/understanding/intermediate/exercise-1) to calculate the output of the function `f`
+        * exercise 5: 
+            * solution to with vowels: [implementation](https://comp-think.github.io/exercises/development/intermediate/exercise-1) of the function `do_it`
+            * solution to with consonants: [implementation](https://comp-think.github.io/exercises/development/intermediate/exercise-2) of the function `do_it`
+    <hr />
+12. [11/11/19, *the*] Recursion
     * slides: [HTML](https://comp-think.github.io/2019-2020/slides/08%20-%20Recursion.html)
     * lecture notes: [PDF](https://comp-think.github.io/book/08.pdf), [Google Docs](https://comp-think.github.io/book/08)
     * Python: [run_forever_recursive.py](https://comp-think.github.io/python/run_forever_recursive.py), [multiplication.py](https://comp-think.github.io/python/multiplication.py)
