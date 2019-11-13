@@ -75,7 +75,7 @@ This space contains all the material related to the [Computational Thinking and 
     * solutions: [1](https://comp-think.github.io/keys/07/exercise-1), [2](https://comp-think.github.io/keys/07/exercise-2), [3](https://comp-think.github.io/keys/07/exercise-3)
     <hr />
 11. [11/11/19, *exa*] First partial examination
-    * content: [test 1](https://comp-think.github.io/2018-2019/exams/first-partial-examination-01.pdf), [test 2](https://comp-think.github.io/2018-2019/exams/first-partial-examination-02.pdf)
+    * content: [test 1](https://comp-think.github.io/2019-2020/exams/first-partial-examination-01.pdf), [test 2](https://comp-think.github.io/2019-2020/exams/first-partial-examination-02.pdf)
     * solutions:
         * exercise 1:
             * solution to "Highlight whether the data structures in the table (queue, set, list) are compliant or not with the characteristics shown": queue and list are compliant with all the characteristics, while set is compliant with countability only.
