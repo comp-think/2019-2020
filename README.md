@@ -74,7 +74,7 @@ This space contains all the material related to the [Computational Thinking and 
     * exercises: [1](https://github.com/comp-think/2019-2020/issues/22), [2](https://github.com/comp-think/2019-2020/issues/23), [3](https://github.com/comp-think/2019-2020/issues/24)
     * solutions: [1](https://comp-think.github.io/keys/07/exercise-1), [2](https://comp-think.github.io/keys/07/exercise-2), [3](https://comp-think.github.io/keys/07/exercise-3)
     <hr />
-11. [28/11/18, *exa*] First partial examination
+11. [11/11/19, *exa*] First partial examination
     * content: [test 1](https://comp-think.github.io/2018-2019/exams/first-partial-examination-01.pdf), [test 2](https://comp-think.github.io/2018-2019/exams/first-partial-examination-02.pdf)
     * solutions:
         * exercise 1:
