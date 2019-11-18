@@ -57,7 +57,7 @@ This space contains all the material related to the [Computational Thinking and 
    * solutions: [1](https://comp-think.github.io/keys/05/exercise-1), [2](https://comp-think.github.io/keys/05/exercise-2), [3](https://comp-think.github.io/keys/05/exercise-3)
    <hr />
 8. [30/10/19, *lab*] 2nd Lesson
-    * material: [GitHub](https://github.com/marilenadaquino/computational_thinking/blob/master/ay-2019-2020/1_lesson/README.md)
+    * material: [GitHub](https://github.com/marilenadaquino/computational_thinking/tree/master/ay-2019-2020/1_2lesson)
    <hr />
 9. [4/11/19, *the*] Brute-force algorithms
    * slides: [HTML](https://comp-think.github.io/2019-2020/slides/06%20-%20Brute-force%20algorithms.html)
@@ -94,10 +94,19 @@ This space contains all the material related to the [Computational Thinking and 
     * lecture notes: [PDF](https://comp-think.github.io/book/08.pdf), [Google Docs](https://comp-think.github.io/book/08)
     * Python: [run_forever_recursive.py](https://comp-think.github.io/python/run_forever_recursive.py), [multiplication.py](https://comp-think.github.io/python/multiplication.py)
     * exercises: [1](https://github.com/comp-think/2019-2020/issues/25), [2](https://github.com/comp-think/2019-2020/issues/26)
+    * solutions: [1](https://comp-think.github.io/keys/08/exercise-1), [2](https://comp-think.github.io/keys/08/exercise-2)
     <hr />
-13. [11/11/19, *the*] Divide and conquer algorithms
+13. [13/11/19, *lab*] 3rd Lesson
+    * material: [GitHub](https://github.com/marilenadaquino/computational_thinking/tree/master/ay-2019-2020/1_2lesson) (same material of the previous laboratory lesson)
+    <hr />
+15. [15/11/19, *lab*] 4th Lesson
+    * material: [GitHub](https://github.com/marilenadaquino/computational_thinking/tree/master/ay-2019-2020/3_lesson)
+    <hr />
+15. [18/11/19, *the*] Divide and conquer algorithms
+    * slides: [HTML](https://comp-think.github.io/2019-2020/slides/09%20-%20Divide%20and%20conquer%20algorithms.html)
     * lecture notes: [PDF](https://comp-think.github.io/book/09.pdf), [Google Docs](https://comp-think.github.io/book/09)
     * Python: [immutable_values.py](https://comp-think.github.io/python/immutable_values.py), [mutable_values.py](https://comp-think.github.io/python/mutable_values.py), [immutable_and_mutable_variables.py](https://comp-think.github.io/python/immutable_and_mutable_variables.py), [merge.py](https://comp-think.github.io/python/merge.py), [merge_sort.py](https://comp-think.github.io/python/merge_sort.py)
+    * exercises: [1](https://github.com/comp-think/2019-2020/issues/27), [2](https://github.com/comp-think/2019-2020/issues/28), [3](https://github.com/comp-think/2019-2020/issues/29)
 
 
 ### Schedule
