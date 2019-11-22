@@ -107,6 +107,7 @@ This space contains all the material related to the [Computational Thinking and 
     * lecture notes: [PDF](https://comp-think.github.io/book/09.pdf), [Google Docs](https://comp-think.github.io/book/09)
     * Python: [immutable_values.py](https://comp-think.github.io/python/immutable_values.py), [mutable_values.py](https://comp-think.github.io/python/mutable_values.py), [immutable_and_mutable_variables.py](https://comp-think.github.io/python/immutable_and_mutable_variables.py), [merge.py](https://comp-think.github.io/python/merge.py), [merge_sort.py](https://comp-think.github.io/python/merge_sort.py)
     * exercises: [1](https://github.com/comp-think/2019-2020/issues/27), [2](https://github.com/comp-think/2019-2020/issues/28), [3](https://github.com/comp-think/2019-2020/issues/29)
+    <hr />
 16. [21/11/19, *lab*] 5th Lesson
     * material: [GitHub](https://github.com/marilenadaquino/computational_thinking/tree/master/ay-2019-2020/4_lesson)
     <hr />
