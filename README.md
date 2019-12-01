@@ -117,6 +117,10 @@ This space contains all the material related to the [Computational Thinking and 
     * lecture notes: [PDF](https://comp-think.github.io/book/10.pdf), [Google Docs](https://comp-think.github.io/book/10)
     * Python: [fib_dc.py](https://comp-think.github.io/python/fib_dc.py), [fib_dp.py](https://comp-think.github.io/python/fib_dp.py)
     * exercises: [1](https://github.com/comp-think/2019-2020/issues/30), [2](https://github.com/comp-think/2019-2020/issues/31)
+    <hr />
+18. [02/12/19, *the*] Organising information: trees
+    * lecture notes: [PDF](https://comp-think.github.io/book/11.pdf), [Google Docs](https://comp-think.github.io/book/11)
+    * Python: [tree_instructions.py](https://comp-think.github.io/python/tree_instructions.py)
 
 
 ### Schedule
