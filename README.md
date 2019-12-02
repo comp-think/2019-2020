@@ -117,10 +117,16 @@ This space contains all the material related to the [Computational Thinking and 
     * lecture notes: [PDF](https://comp-think.github.io/book/10.pdf), [Google Docs](https://comp-think.github.io/book/10)
     * Python: [fib_dc.py](https://comp-think.github.io/python/fib_dc.py), [fib_dp.py](https://comp-think.github.io/python/fib_dp.py)
     * exercises: [1](https://github.com/comp-think/2019-2020/issues/30), [2](https://github.com/comp-think/2019-2020/issues/31)
+    * solutions: [1](https://comp-think.github.io/keys/10/exercise-1), [2](https://comp-think.github.io/keys/10/exercise-2)
+    <hr />
+16. [27/11/19, *lab*] 6th Lesson
+    * material: [GitHub](https://github.com/marilenadaquino/computational_thinking/tree/master/ay-2019-2020/5_lesson)
     <hr />
 18. [02/12/19, *the*] Organising information: trees
+    * slides: [HTML](https://comp-think.github.io/2019-2020/slides/11%20-%20Organising%20information%20-%20trees.html)
     * lecture notes: [PDF](https://comp-think.github.io/book/11.pdf), [Google Docs](https://comp-think.github.io/book/11)
     * Python: [tree_instructions.py](https://comp-think.github.io/python/tree_instructions.py)
+    * exercises: [1](https://github.com/comp-think/2019-2020/issues/32), [2](https://github.com/comp-think/2019-2020/issues/33)
 
 
 ### Schedule
