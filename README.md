@@ -127,6 +127,10 @@ This space contains all the material related to the [Computational Thinking and 
     * lecture notes: [PDF](https://comp-think.github.io/book/11.pdf), [Google Docs](https://comp-think.github.io/book/11)
     * Python: [tree_instructions.py](https://comp-think.github.io/python/tree_instructions.py)
     * exercises: [1](https://github.com/comp-think/2019-2020/issues/32), [2](https://github.com/comp-think/2019-2020/issues/33)
+    <hr />
+18. [04/12/19, *the*] Backtracking algorithms
+    * lecture notes: [PDF](https://comp-think.github.io/book/12.pdf), [Google Docs](https://comp-think.github.io/book/12)
+    * Python: [peg_solitaire.py](https://comp-think.github.io/python/peg_solitaire.py)
 
 
 ### Schedule
