@@ -8,7 +8,8 @@ This space contains all the material related to the [Computational Thinking and 
 
 1. [Material](#material)
 2. [Schedule](#schedule)
-3. [Links](#links)
+2. [Exam sessions](#exam_sessions)
+4. [Links](#links)
 
 ### Material
 
@@ -163,6 +164,16 @@ This space contains all the material related to the [Computational Thinking and 
     <tr><td>13/12/19</td><td>12:30-14:30</td><td>Project: specification</td></tr>
     <tr><td>16/12/19</td><td>9:30-11:30</td><td>Greedy algorithms</td></tr>
 </table>
+
+
+### Exam sessions
+
+* 30 January 2020
+* 19 March 2020
+* 14 May 2020
+* 11 June 2020
+* 9 July 2020
+* 24 September 2020
 
 
 ### Links
