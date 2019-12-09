@@ -8,7 +8,7 @@ This space contains all the material related to the [Computational Thinking and 
 
 1. [Material](#material)
 2. [Schedule](#schedule)
-2. [Exam sessions](#exam_sessions)
+2. [Exam sessions](#exam-sessions)
 4. [Links](#links)
 
 ### Material
@@ -128,6 +128,7 @@ This space contains all the material related to the [Computational Thinking and 
     * lecture notes: [PDF](https://comp-think.github.io/book/11.pdf), [Google Docs](https://comp-think.github.io/book/11)
     * Python: [tree_instructions.py](https://comp-think.github.io/python/tree_instructions.py)
     * exercises: [1](https://github.com/comp-think/2019-2020/issues/32), [2](https://github.com/comp-think/2019-2020/issues/33)
+    * solutions: [1](https://comp-think.github.io/keys/11/exercise-1), [2](https://comp-think.github.io/keys/11/exercise-2)
     <hr />
 20. [04/12/19, *the*] Backtracking algorithms
     * slides: [HTML](https://comp-think.github.io/2019-2020/slides/12%20-%20Backtracking%20algorithms.html)
@@ -136,8 +137,10 @@ This space contains all the material related to the [Computational Thinking and 
     * exercises: [1](https://github.com/comp-think/2019-2020/issues/34), [2](https://github.com/comp-think/2019-2020/issues/35)
     <hr />
 21. [09/12/19, *the*] Organising information: graphs
+    * slides: [HTML](https://comp-think.github.io/2019-2020/slides/13%20-%20Organising%information%20-%20graphs.html)
     * lecture notes: [PDF](https://comp-think.github.io/book/13.pdf), [Google Docs](https://comp-think.github.io/book/13)
     * Python: [graph_instructions.py](https://comp-think.github.io/python/graph_instructions.py), [multigraph_instructions.py](https://comp-think.github.io/python/multigraph_instructions.py), [graph_attribute_instructions.py](https://comp-think.github.io/python/graph_attribute_instructions.py)
+    * exercises: [1](https://github.com/comp-think/2019-2020/issues/36), [2](https://github.com/comp-think/2019-2020/issues/37)
 
 
 ### Schedule
