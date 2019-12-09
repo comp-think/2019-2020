@@ -137,7 +137,7 @@ This space contains all the material related to the [Computational Thinking and 
     * exercises: [1](https://github.com/comp-think/2019-2020/issues/34), [2](https://github.com/comp-think/2019-2020/issues/35)
     <hr />
 21. [09/12/19, *the*] Organising information: graphs
-    * slides: [HTML](https://comp-think.github.io/2019-2020/slides/13%20-%20Organising%information%20-%20graphs.html)
+    * slides: [HTML](https://comp-think.github.io/2019-2020/slides/13%20-%20Organising%20information%20-%20graphs.html)
     * lecture notes: [PDF](https://comp-think.github.io/book/13.pdf), [Google Docs](https://comp-think.github.io/book/13)
     * Python: [graph_instructions.py](https://comp-think.github.io/python/graph_instructions.py), [multigraph_instructions.py](https://comp-think.github.io/python/multigraph_instructions.py), [graph_attribute_instructions.py](https://comp-think.github.io/python/graph_attribute_instructions.py)
     * exercises: [1](https://github.com/comp-think/2019-2020/issues/36), [2](https://github.com/comp-think/2019-2020/issues/37)
