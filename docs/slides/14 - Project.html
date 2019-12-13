@@ -1,0 +1,261 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+		<title>Project</title>
+
+		<link rel="stylesheet" href="css/reveal.css">
+		<link rel="stylesheet" href="css/theme/simple.css">
+		<link rel="stylesheet" href="css/ctc.css">
+
+		<!-- Theme used for syntax highlighting of code -->
+		<link rel="stylesheet" href="lib/css/zenburn.css">
+		<link rel="stylesheet" href="css/addon.css"></link>
+		<link rel="stylesheet" href="css/font-awesome.min.css"></link>
+		<link rel="stylesheet" href="css/academicons.min.css"></link>
+
+		<!-- Printing and PDF exports -->
+		<script>
+			var link = document.createElement( 'link' );
+			link.rel = 'stylesheet';
+			link.type = 'text/css';
+			link.href = window.location.search.match( /print-pdf/gi ) ? 'css/print/pdf.css' : 'css/print/paper.css';
+			document.getElementsByTagName( 'head' )[0].appendChild( link );
+		</script>
+	</head>
+	<body>
+		<div class="reveal">
+			<div class="slides">
+				<section id="title" class="title_slide" role="doc-cover">
+					<h1>Project</h1>
+					<div class="author">
+						<p><a href="https://www.unibo.it/sitoweb/silvio.peroni/en">Silvio Peroni</a></p>
+						<p class="contact">
+							<i class="fa fa-envelope" aria-hidden="true"></i> <a href="mailto:silvio.peroni@unibo.it">silvio.peroni@unibo.it</a>
+							<i class="ai ai-orcid" aria-hidden="true"></i> <a href="https://orcid.org/0000-0003-0530-4305">0000-0003-0530-4305</a>
+							<i class="fa fa-twitter" aria-hidden="true"></i> <a href="https://twitter.com/essepuntato">@essepuntato</a>
+						</p>
+						<p class="sst mtl"><a href="https://www.unibo.it/en/teaching/course-unit-catalogue/course-unit/2019/424624">Computational Thinking and Programming (A.Y. 2019/2020)</a></p>
+						<p class="ssst"><a href="https://corsi.unibo.it/2cycle/DigitalHumanitiesKnowledge">Second Cycle Degree in Digital Humanities and Digital Knowledge</a></p>
+						<p class="ssst"><a href="http://www.unibo.it/en">Alma Mater Studiorum - Università di Bologna</a></p>
+						<p class="license"><a rel="license" href="http://creativecommons.org/licenses/by/4.0/"></a> <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a></p>
+					</div>
+				</section>
+
+                <section>
+                    <h2>Communication 1</h2>
+                    <p>The aperitif will be on the 16th of December, 19:00, at <a href="https://kinotto-bar.business.site">"Kinotto"</a>, Via Sebastiano Serlio, 25/2 (<a href="https://www.google.com/maps/place/Kinotto+Bar/@44.5077918,11.352026,19z/data=!4m13!1m7!3m6!1s0x477fd4a0859ac741:0xdbc7e11021f2be66!2sVia+Sebastiano+Serlio,+25,+40128+Bologna+BO!3b1!8m2!3d44.5081055!4d11.3523345!3m4!1s0x477fd4a0859b7161:0x19d0e64be232d270!8m2!3d44.507487!4d11.3528714">Google Maps</a>, <a href="https://www.openstreetmap.org/node/5569180462">Open Street Maps</a>)</p>
+                    <p>Bus: number "21", stop "Dopolavoro Ferroviario" – <a href="https://www.tper.it/bo-21">itinerary</a>, <a href="https://www.tper.it/sites/tper.it/files/ORARI/1563794400/tper_Bo021.pdf">timetable</a></p>
+                </section>
+				
+				<section>
+					<h2>Meta Analyser Tool</h2>
+					<p>The name of the project is <em>Meta Analyser Tool</em></p>
+					<p>It is a software that takes in input a file in a particular format (CSV), describing metadata about existing scholarly articles.</p>
+                    <p>The goal of the software is to run particular analysis on such data.</p>
+				</section>
+				
+				<section>
+					<h2>You need a group</h2>
+					<p>The project must be implemented by a group of people</p>
+					<p class="fragment">You need to</p>
+					<ul>
+						<li class="fragment"><p>form groups of at least 3 and at most 4 people</p></li>
+						<li class="fragment"><p>choose a name for the group (yes: a name) - it will be used to publish the ranks of the best-performing projects (more info later)</p></li>
+						<li class="fragment"><p>communicate the name of the group and its members (including their emails) to me by sending an email at <a href="mailto:silvio.peroni@unibo.it">silvio.peroni@unibo.it</a></p></li>
+					</ul>
+					<p class="fragment">All groups must be ready by next Monday at most (16 December)</p>
+				</section>
+				
+				<section>
+					<h2>Project stub</h2>
+					<pre class="ssst">from <span class="fragment highlight-red">&lt;group_name></span> import *
+
+class MetaAnalyserTool(object):
+    def __init__(self, metadata_file_path):
+        self.data = <span class="fragment highlight-red">process_metadata(metadata_file_path)</span>
+
+    def get_ids(self, str_value, field_set):
+        return <span class="fragment highlight-red">do_get_ids(self.data, str_value, field_set)</span>
+
+    def get_by_id(self, id, field_set):
+        return <span class="fragment highlight-red">do_get_by_id(self.data, id, field_set)</span>
+
+	def filter(self, field, value):
+		return <span class="fragment highlight-red">do_filter(self.data, field_value_list)</span>
+
+    def coauthor_graph(self, author_id, level):
+        return <span class="fragment highlight-red">do_coauthor_graph(self.data, author_id, level)</span>
+
+    def author_network(self):
+        return <span class="fragment highlight-red">do_author_network(self.data)</span>
+
+    def retrieve_tree_of_venues(self, no_ids):
+        return <span class="fragment highlight-red">do_retrieve_tree_of_venues(self.data, no_ids)</span></pre>
+				</section>
+				
+				<section>
+					<h2>Your output</h2>
+					<p class="mbs">You have to develop a Python file named as your group, where spaces are substituted by underscores and the whole file is lowercase</p>
+					<p class="mtn">E.g.: group <em>Best group ever</em>, file <code>best_group_ever.py</code></p>
+					<div class="fragment">
+						<p class="mbs">The import statement must specify the module implemented</p>
+						<p class="mtn">E.g.: <code>from best_group_ever import *</code></p>
+					</div>
+					<p class="fragment">Each group has to implement the seven functions that have been highlighted in red in the previous slide</p>
+				</section>
+				
+				<section>
+					<h2>process_metadata</h2>
+					<p><code>def process_metadata(metadata_file_path)</code></p>
+					<p>It takes in input a comma separated value (CSV) file, and return a data structure containing all the data included in the CSV is some form</p>
+					<p>The data can be preprocessed, changed according to some empirical rule, ordered in a certain way, etc.</p>
+					<p>These data will be automatically provided in input to the other functions</p>
+				</section>
+
+                <section>
+					<h2>Example of CSV metadata</h2>
+					<table class="ssst">
+						<tr><th>id</th><th>title</th><th>author</th><th>pub_date</th><th>venue</th><th>volume</th><th>issue</th><th>page</th><th>type</th><th>publisher</th></tr>
+						<tr><td>id:1; b:1</td><td>The SPAR Ontologies</td><td>Peroni, Silvio [a:1; viaf:309649450]; Shotton, David [a:2]</td><td>2018</td><td>ISWC 2018 [b:2; b:5]</td><td></td><td></td><td>119-136</td><td>book chapter</td><td>Springer [p:1]</tr>
+						<tr><td>b:3</td><td>Automating semantic publishing</td><td>Peroni, Silvio [a:1]</td><td>2017</td><td>Data Science [b:4]</td><td>1</td><td>1-2</td><td>155-173</td><td>journal article</td><td>IOS Press [p:2]</tr>
+					</table>
+					<p class="fragment"><code>id</code> (list of strings, separator ";"): the identifiers of an article</p>
+                    <p class="fragment"><code>author</code> (list of strings, separator ";"): the author of an article</p>
+					<p class="fragment"><code>[id1; id2; etc.]</code> (list of strings, separator ";"): each string of the fields <em>author</em>, <em>venue</em> and <em>publisher</em> can include one or more identifiers for such entity</p>
+				</section>
+
+				<section>
+					<h2>do_get_ids</h2>
+					<p><code>def do_get_ids(data, str_value, field_set)</code></p>
+                    <p class="fragment">data: the data returned by <code>process_metadata</code></p>
+                    <p class="fragment">str_value: a string value to search</p>
+					<p class="fragment">field_set: the set of the field names to consider</p>
+
+                    <p class="fragment">It returns a set of identifiers for any item that matches with <code>str_value</code>. If the <code>field_set</code> parameter is <code>None</code>, it will consider all the fields for looking for the identifier. Otherwise, only the fields listed in <code>field_set</code> will be used</p>
+				</section>
+
+				<section>
+					<h2>do_get_by_id</h2>
+					<p><code>def do_get_by_id(data, id, field_set)</code></p>
+                    <p class="fragment">data: the data returned by <code>process_metadata</code></p>
+                    <p class="fragment">id: an identifier of an item</p>
+                    <p class="fragment">field_set:  the set of the field names to consider</p>
+
+                    <p class="fragment">It returns a set of strings of the items associated to the identifier <code>id</code>. If the <code>field_set</code> parameter is <code>None</code>, it will consider all the fields for looking for the identifier. Otherwise, only the fields listed in <code>field_set</code> will be used.</p>
+				</section>
+
+				<section>
+                    <h2>do_filter</h2>
+                    <p><code>def do_filter(data, field_value_list)</code></p>
+                    <p class="fragment">data: the data returned by <code>process_metadata</code></p>
+                    <p class="fragment">field_value_list: a list of tuples of two values each</p>
+
+                    <p class="sst fragment">It returns a list with textual representations  of each row in the CSV tables which are compliant with the filters specified in  <code>field_value_list</code>. Each tuple of the <code>field_value_list</code> parameter contains two values: the first one is the field on which to apply the filtering, the second is the value used for filtering - e.g. <code>("author", "Peron*")</code> will take into consideration only the rows that, in the field <em>author</em>, have at least one author having name starting with "Peron". If <code>field_value_list</code> is <code>None</code>, the function considers all the row in <code>data</code></p>
+					<p class="ssst fragment">Textual representation: <code>&lt;Family Name 1> &lt;Given Name Initials 1>, [...], &lt;Family Name N> &lt;Given Name Initials N>. (&lt;pub_date>). &lt;title>. &lt;venue></code></p>
+					<p class="ssst fragment">E.g.: <code>Peroni S, Shotton D. (2018). The SPAR Ontologies. ISWC 2018</code></p>
+                </section>
+
+				<section>
+					<h2>Wild cards and rules</h2>
+					<p>Multiple wildcards <q>*</q> can be used in <code>str_value</code>, <code>id</code>, and in the second values of the tuples in <code>field_value_list</code> of the previous functions. E.g. <q>World*Web</q> looks for all the strings that matches with the word <q>World</q> followed by zero or more characters, followed by the word <q>Web</q> (examples: <q>World Wide Web</q>, <q>World Spider Web</q>, etc.)</p>
+					<p class="fragment">All matches are case insensitive – e.g. specifying <q>World</q> as <code>str_value</code> will match also strings that contain <q>world</q></p>
+				</section>
+
+                <section>
+					<h2>do_coauthor_graph</h2>
+					<p><code>def do_coauthor_graph(data, aut_id, level)</code></p>
+                    <p class="fragment">data: the data returned by <code>process_metadata</code></p>
+                    <p class="fragment">aut_id: an identifier of an author</p>
+                    <p class="fragment">level: a positive integer which says how many levels of the network we have to consider</p>
+
+                    <p class="fragment">It returns a graph having a central node <code>author_id</code> and a series of additional connected nodes for each other person who co-authored a paper with <code>author_id</code> (level 1), and another series of additional connected nodes referring to the co-authors of all the previosly added ones (level 2), and so on</p>
+				</section>
+
+                <section>
+                    <h2>do_author_network</h2>
+                    <p><code>def do_author_network(data)</code></p>
+                    <p class="fragment">data: the data returned by <code>process_metadata</code></p>
+
+                    <p class="fragment">It returns the graph of all the authors included in <code>data</code>. Two authors are connected in the graph if they have co-authored at least one paper together</p>
+                </section>
+
+                <section>
+                    <h2>do_retrieve_tree_of_venues</h2>
+                    <p><code>def do_retrieve_tree_of_venues(data, no_ids)</code></p>
+                    <p class="fragment">data: the data returned by <code>process_metadata</code></p>
+                    <p class="fragment">no_ids: the set of venue identifiers not to include in the result</p>
+
+					<p class="fragment st">It returns the root node (named "venues") of a tree. All the children of the root node represent all the venues in <code>data</code> with no repetitions. Each venue has a number of children according to how many distinct volumes it has. Similarly, each volume has a number of children according to how many distinct issues it has. Please use the value of the field <em>venue</em> (with no identifiers), <em>volume</em>, and <em>issue</em> as name of the nodes of the tree. If the <code>no_ids</code> parameter is <code>None</code>, it will consider all the venues in <code>data</code>. Otherwise, the venues listed in <code>no_ids</code> will be excluded by the result</p>
+                </section>
+
+                <section>
+                    <h2>A suggestion</h2>
+                    <p>Use the test-driven development to understand when you are doing the right job</p>
+                </section>
+
+				<section>
+					<h2>Submission</h2>
+					<p>The project, i.e. the implementation of the seven functions including any additional ancillary function developed, must be included in a single file named as your group, e.g. <code>best_group_ever.py</code></p>
+					<p>The file must be sent by email to me at <a href="mailto:silvio.peroni@unibo.it">silvio.peroni@unibo.it</a></p>
+					<p class="fragment">Submission: 2 days before the exam session (the whole group must attend the session) – e.g. send the project the 23rd of January for discussing it on the session of the 25th of January</p>
+					<p class="fragment">Your project will be compared with the others in terms of efficiency (i.e. time needed for addressing specific tasks)</p>
+				</section>
+				
+				<section>
+					<h2>Evaluation</h2>
+					<p>Maximum score = c-score + e-score + o-score = 16</p>
+					<p>All projects will run on large CSV files</p>
+					<p class="fragment">Correctness of the result: c-score <= 4</p>
+					<p class="fragment mbs">Efficiency of the software: e-score <= 4; projects ranked according to the time spent for addressing various tasks</p>
+					<ol class="fragment mll sst mtn">
+						<li><p>e-score = 4</p></li>
+						<li><p>e-score = 3</p></li>
+						<li><p>e-score = 2</p></li>
+						<li><p>e-score = 1</p></li>
+					</ol>
+					<p class="fragment mbs">Oral colloquium: -8 <= o-score <= 8; it is a personal score, each member of the group has its own</p>
+					<p class="fragment sst mtn">At least 2 for passing the exam, otherwise an additional effort is required (new function)</p>
+				</section>
+				
+				<section class="title_slide">
+					<h2>
+						END
+						<span class="subtitle">Project</span>
+					</h2>
+					<div class="author">
+						<p><a href="https://www.unibo.it/sitoweb/silvio.peroni/en">Silvio Peroni</a></p>
+						<p class="contact">
+							<i class="fa fa-envelope" aria-hidden="true"></i> <a href="mailto:silvio.peroni@unibo.it">silvio.peroni@unibo.it</a>
+							<i class="ai ai-orcid" aria-hidden="true"></i> <a href="https://orcid.org/0000-0003-0530-4305">0000-0003-0530-4305</a>
+							<i class="fa fa-twitter" aria-hidden="true"></i> <a href="https://twitter.com/essepuntato">@essepuntato</a>
+						</p>
+						<p class="sst mtl"><a href="https://www.unibo.it/en/teaching/course-unit-catalogue/course-unit/2019/424624">Computational Thinking and Programming (A.Y. 2019/2020)</a></p>
+						<p class="ssst"><a href="https://corsi.unibo.it/2cycle/DigitalHumanitiesKnowledge">Second Cycle Degree in Digital Humanities and Digital Knowledge</a></p>
+						<p class="ssst"><a href="http://www.unibo.it/en">Alma Mater Studiorum - Università di Bologna</a></p>
+					</div>
+				</section>
+			</div>
+		</div>
+
+		<script src="lib/js/head.min.js"></script>
+		<script src="js/reveal.js"></script>
+
+		<script>
+			// More info https://github.com/hakimel/reveal.js#configuration
+			Reveal.initialize({
+				history: true,
+
+				// More info https://github.com/hakimel/reveal.js#dependencies
+				dependencies: [
+					{ src: 'plugin/markdown/marked.js' },
+					{ src: 'plugin/markdown/markdown.js' },
+					{ src: 'plugin/notes/notes.js', async: true },
+					{ src: 'plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } }
+				]
+			});
+		</script>
+	</body>
+</html>
