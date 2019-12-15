@@ -135,6 +135,7 @@ This space contains all the material related to the [Computational Thinking and 
     * lecture notes: [PDF](https://comp-think.github.io/book/12.pdf), [Google Docs](https://comp-think.github.io/book/12)
     * Python: [peg_solitaire.py](https://comp-think.github.io/python/peg_solitaire.py)
     * exercises: [1](https://github.com/comp-think/2019-2020/issues/34), [2](https://github.com/comp-think/2019-2020/issues/35)
+    * solutions: [1](https://comp-think.github.io/keys/12/exercise-1), [2](https://comp-think.github.io/keys/12/exercise-2)
     <hr />
 21. [09/12/19, *the*] Organising information: graphs
     * slides: [HTML](https://comp-think.github.io/2019-2020/slides/13%20-%20Organising%20information%20-%20graphs.html)
@@ -142,6 +143,7 @@ This space contains all the material related to the [Computational Thinking and 
     * Python: [graph_instructions.py](https://comp-think.github.io/python/graph_instructions.py), [multigraph_instructions.py](https://comp-think.github.io/python/multigraph_instructions.py), [graph_attribute_instructions.py](https://comp-think.github.io/python/graph_attribute_instructions.py)
     * exercises: [1](https://github.com/comp-think/2019-2020/issues/36), [2](https://github.com/comp-think/2019-2020/issues/37)
 22. [13/12/19, *the*] Project
+    <hr />
     * slides: [HTML](https://comp-think.github.io/2019-2020/slides/14%20-%20Project.html)
 
 
