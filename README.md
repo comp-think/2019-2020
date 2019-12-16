@@ -142,9 +142,17 @@ This space contains all the material related to the [Computational Thinking and 
     * lecture notes: [PDF](https://comp-think.github.io/book/13.pdf), [Google Docs](https://comp-think.github.io/book/13)
     * Python: [graph_instructions.py](https://comp-think.github.io/python/graph_instructions.py), [multigraph_instructions.py](https://comp-think.github.io/python/multigraph_instructions.py), [graph_attribute_instructions.py](https://comp-think.github.io/python/graph_attribute_instructions.py)
     * exercises: [1](https://github.com/comp-think/2019-2020/issues/36), [2](https://github.com/comp-think/2019-2020/issues/37)
-22. [13/12/19, *the*] Project
     <hr />
+22. [13/12/19, *the*] Project
     * slides: [HTML](https://comp-think.github.io/2019-2020/slides/14%20-%20Project.html)
+    <hr />
+21. [16/12/19, *the*] Greedy algorithms
+    * slides: [HTML](https://comp-think.github.io/2019-2020/slides/15%20-%20Greedy%20algorithms.html)
+    * lecture notes: [PDF](https://comp-think.github.io/book/14.pdf), [Google Docs](https://comp-think.github.io/book/14)
+    * Python: [lise_wrap.py](https://comp-think.github.io/python/line_wrap.py)
+    <hr />
+22. [13/12/19, *the*] Ask a thesis
+    * slides: [HTML](https://comp-think.github.io/2019-2020/slides/16%20-%20Ask%20a%20thesis.html)
 
 
 ### Schedule
