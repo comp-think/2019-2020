@@ -160,6 +160,7 @@ This space contains all the material related to the [Computational Thinking and 
     <hr />
 23. [13/12/19, *the*] Project
     * slides: [HTML](https://comp-think.github.io/2019-2020/slides/14%20-%20Project.html)
+    * material: [GitHub](https://github.com/comp-think/2019-2020/tree/master/docs/project)
     <hr />
 24. [16/12/19, *the*] Greedy algorithms
     * slides: [HTML](https://comp-think.github.io/2019-2020/slides/15%20-%20Greedy%20algorithms.html)
