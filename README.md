@@ -143,15 +143,31 @@ This space contains all the material related to the [Computational Thinking and 
     * Python: [graph_instructions.py](https://comp-think.github.io/python/graph_instructions.py), [multigraph_instructions.py](https://comp-think.github.io/python/multigraph_instructions.py), [graph_attribute_instructions.py](https://comp-think.github.io/python/graph_attribute_instructions.py)
     * exercises: [1](https://github.com/comp-think/2019-2020/issues/36), [2](https://github.com/comp-think/2019-2020/issues/37)
     <hr />
-22. [13/12/19, *the*] Project
+22. [13/12/19, *exa*] Second partial examination
+    * content: [test 1](https://comp-think.github.io/2019-2020/exams/second-partial-examination-01.pdf), [test 2](https://comp-think.github.io/2019-2020/exams/second-partial-examination-02.pdf)
+    * solutions:
+        * exercise 1:
+            * solution to "Describe the steps characterising the divide and conquer algorithmic approach": **\[base case]** address the problem directly on the input material if it is depicting an easy-to-solve problem; otherwise **\[divide]** split the input material into two or more balanced parts, each representing a sub-problem of the original one; **\[conquer]** run the same algorithm recursively for every balanced part obtained in the previous step; **\[combine]** reconstruct the final solution of the problem using the partial solutions obtained from running the algorithms on the smaller parts of the input material.
+            * solution to "Describe the steps characterising a recursive algorithm": A recursive algorithm must have one or more **basic cases** and at least one **recursive step**. Each basic case describes a terminating scenario and does not use any recursion to produce the answer to a specific (sub-)problem. Instead, the recursion step is where the same algorithm is executed again with a different (and, usually, reduced) input.
+        * exercise 2:
+            * solution to "Describe the main components and characteristics that the data structure tree has": A tree is a data structure that simulates a hierarchical tree, composed by a set of nodes related to each other by a particular hierarchical parent-child relation. The originating (or starting) node is called root node, placed at the very top of the tree. Instead, the terminating nodes, called leaf nodes, are placed at the very bottom. Taking into consideration a node of a tree, we can name precisely all the other nodes surrounding it as parent, ancestors, siblings, children and descendants. 
+            * solution to "Describe the main components and characteristics that the data structure graph has": A graph is a data structure composed by nodes connected by edges. We can distinguish two different kinds of graphs: undirected graphs and directed graphs. In undirected graphs, one can traverse an edge in one way or the other indifferently. In directed graphs, instead, the edge specifies the direction for traversing it.
+
+        * exercise 3:
+            * solution to "Write down the Python function def `fib_recursive(n)` implementing the fibonacci recursive algorithm": [implementation](https://comp-think.github.io/python/fib_dc.py) of the function `fib_recursive(n)` (in the file, it is named `fib_dc`). 
+            * solution to "Write down the Python recursive function def `multiplication_recursive(n, m)` implementing the multiplication operation between two non-negative integer numbers": [implementation](https://comp-think.github.io/python/multiplication.py) of the function `multiplication_recursive(n, m)` (in the file, it is named `multiplication`).
+        * exercise 4: [Python script](https://comp-think.github.io/exercises/understanding/intermediate/exercise-2) to calculate the output of the function `f`
+        * exercise 5: [implementation](https://comp-think.github.io/exercises/development/intermediate/exercise-3) of the function `depth_first_visit`
+    <hr />
+23. [13/12/19, *the*] Project
     * slides: [HTML](https://comp-think.github.io/2019-2020/slides/14%20-%20Project.html)
     <hr />
-21. [16/12/19, *the*] Greedy algorithms
+24. [16/12/19, *the*] Greedy algorithms
     * slides: [HTML](https://comp-think.github.io/2019-2020/slides/15%20-%20Greedy%20algorithms.html)
     * lecture notes: [PDF](https://comp-think.github.io/book/14.pdf), [Google Docs](https://comp-think.github.io/book/14)
     * Python: [lise_wrap.py](https://comp-think.github.io/python/line_wrap.py)
     <hr />
-22. [13/12/19, *the*] Ask a thesis
+25. [13/12/19, *the*] Ask a thesis
     * slides: [HTML](https://comp-think.github.io/2019-2020/slides/16%20-%20Ask%20a%20thesis.html)
 
 
