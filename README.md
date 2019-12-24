@@ -142,6 +142,7 @@ This space contains all the material related to the [Computational Thinking and 
     * lecture notes: [PDF](https://comp-think.github.io/book/13.pdf), [Google Docs](https://comp-think.github.io/book/13)
     * Python: [graph_instructions.py](https://comp-think.github.io/python/graph_instructions.py), [multigraph_instructions.py](https://comp-think.github.io/python/multigraph_instructions.py), [graph_attribute_instructions.py](https://comp-think.github.io/python/graph_attribute_instructions.py)
     * exercises: [1](https://github.com/comp-think/2019-2020/issues/36), [2](https://github.com/comp-think/2019-2020/issues/37)
+    * solutions: [1](https://comp-think.github.io/keys/13/exercise-1), [2](https://comp-think.github.io/keys/13/exercise-2)
     <hr />
 22. [13/12/19, *exa*] Second partial examination
     * content: [test 1](https://comp-think.github.io/2019-2020/exams/second-partial-examination-01.pdf), [test 2](https://comp-think.github.io/2019-2020/exams/second-partial-examination-02.pdf)
@@ -165,7 +166,9 @@ This space contains all the material related to the [Computational Thinking and 
 24. [16/12/19, *the*] Greedy algorithms
     * slides: [HTML](https://comp-think.github.io/2019-2020/slides/15%20-%20Greedy%20algorithms.html)
     * lecture notes: [PDF](https://comp-think.github.io/book/14.pdf), [Google Docs](https://comp-think.github.io/book/14)
-    * Python: [lise_wrap.py](https://comp-think.github.io/python/line_wrap.py)
+    * Python: [line_wrap.py](https://comp-think.github.io/python/line_wrap.py)
+    * exercises: [1](https://github.com/comp-think/2019-2020/issues/38), [2](https://github.com/comp-think/2019-2020/issues/39)
+    * solutions: [1](https://comp-think.github.io/keys/14/exercise-1), [2](https://comp-think.github.io/keys/14/exercise-2)
     <hr />
 25. [13/12/19, *the*] Ask a thesis
     * slides: [HTML](https://comp-think.github.io/2019-2020/slides/16%20-%20Ask%20a%20thesis.html)
