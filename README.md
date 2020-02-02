@@ -216,4 +216,4 @@ This space contains all the material related to the [Computational Thinking and 
 
 ### Links
 
-(To appear)
+* Written examination: [sources and solutions](https://github.com/comp-think/2019-2020/tree/master/docs/exams)
