@@ -2,6 +2,24 @@
 
 In this page it is possible to find the link to the various written examination of the course Computational Thinking and Programming, academic year 2019/2020.
 
+## 22 June 2020 written examination
+
+**Text of the exam:** [PDF](./written-examination-2020-06-22.pdf)
+
+**Solutions:**
+* Section 1 (theory):
+  1. Fortran, Graph
+     
+  2. [Solution](https://comp-think.github.io/exercises/understanding/beginner/exercise-7) available online.
+     
+  3. [Solution](https://comp-think.github.io/exercises/development/beginner/exercise-13) available online.
+  
+  4. Dynamic programming works like the divide and conquer approach. It is an algorithmic technique that splits the original computational problem to solve in two or more smaller problems of the same type. However, differently from divide and conquer, it stores the solutions to these subproblems for reusing them, if they recur. Thus, when a problem recurs, one can look at the previously-computed solution and reuse it directly, usually saving a considerable amount of computation time. 
+
+* Section 2 (understanding): [Solution](https://comp-think.github.io/exercises/understanding/advanced/exercise-16) available online.
+
+* Section 3 (development): [Solution](https://comp-think.github.io/exercises/development/advanced/exercise-16) available online.
+
 ## 14 May 2020 written examination
 
 **Text of the exam:** [PDF](./written-examination-2020-05-14.pdf)
