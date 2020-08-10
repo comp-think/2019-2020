@@ -2,6 +2,26 @@
 
 In this page it is possible to find the link to the various written examination of the course Computational Thinking and Programming, academic year 2019/2020.
 
+## 9 July 2020 written examination
+
+**Text of the exam:** [PDF](./written-examination-2020-07-09.pdf)
+
+**Solutions:**
+* Section 1 (theory):
+  1. brute-force, greedy
+     
+  2. The mistakes are:
+     * `if item != value_to_search`, that should be `if item == value_to_search`;
+     * `return item`, that should be `return value`.
+     
+  3. [Solution](https://comp-think.github.io/exercises/development/beginner/exercise-14) available online.
+  
+  4. The ordered structures are lists, queues and stacks. Lists are the most generic ones, and does not force any particular mechanism to add and remove its elements. Instead, a queue adopts a First In First Out (FIFO) strategy to handle its elements, i.e. the first element that is added to the queue is also the first one that will be removed when requested. On the contrary, a stack adopts a Last In First Out (LIFO) strategy to hanlde its elements, i.e. the last element that is added to the stack is also the first one that will be removed when requested.
+
+* Section 2 (understanding): [Solution](https://comp-think.github.io/exercises/understanding/advanced/exercise-17) available online.
+
+* Section 3 (development): [Solution](https://comp-think.github.io/exercises/development/advanced/exercise-17) available online.
+
 ## 22 June 2020 written examination
 
 **Text of the exam:** [PDF](./written-examination-2020-06-22.pdf)
