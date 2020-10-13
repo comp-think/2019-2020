@@ -207,11 +207,11 @@ This space contains all the material related to the [Computational Thinking and 
 ### Exam sessions
 
 * 30 January 2020
-* 19 March 2020
 * 14 May 2020
 * 22 June 2020
 * 9 July 2020
 * 24 September 2020
+* 10 December 2020
 
 
 ### Links
