@@ -24,25 +24,25 @@ This space contains all the material related to the [Computational Thinking and 
    <hr />
 2. [14/10/19, *the*] Introduction to Computational Thinking 
    * slides: [HTML](https://comp-think.github.io/2019-2020/slides/01%20-%20Introduction%20to%20Computational%20Thinking.html)
-   * lecture notes: [PDF](https://comp-think.github.io/book/01.pdf), [Google Docs](https://comp-think.github.io/book/01)
+   * lecture notes: [PDF](https://comp-think.github.io/2019-2020/lecture-notes/01.pdf)
    * exercises: [1](https://github.com/comp-think/2019-2020/issues/1), [2](https://github.com/comp-think/2019-2020/issues/2), [3](https://github.com/comp-think/2019-2020/issues/3)
    * solutions: [1](https://comp-think.github.io/keys/01/exercise-1), [2](https://comp-think.github.io/keys/01/exercise-2), [3](https://comp-think.github.io/keys/01/exercise-3)
    <hr />
 3. [16/10/19, *the*] Algorithms 
    * slides: [HTML](https://comp-think.github.io/2019-2020/slides/02%20-%20Algorithms.html)
-   * lecture notes: [PDF](https://comp-think.github.io/book/02.pdf), [Google Docs](https://comp-think.github.io/book/02)
+   * lecture notes: [PDF](https://comp-think.github.io/2019-2020/lecture-notes/02.pdf)
    * exercises: [1](https://github.com/comp-think/2019-2020/issues/4), [2](https://github.com/comp-think/2019-2020/issues/5), [3](https://github.com/comp-think/2019-2020/issues/6)
    * solutions [1](https://comp-think.github.io/keys/02/exercise-1), [2](https://comp-think.github.io/keys/02/exercise-2), [3](https://comp-think.github.io/keys/02/exercise-3)
    <hr />
 4. [18/10/19, *the*] Computability  
    * slides: [HTML](https://comp-think.github.io/2019-2020/slides/03%20-%20Computability.html)
-   * lecture notes: [PDF](https://comp-think.github.io/book/03.pdf), [Google Docs](https://comp-think.github.io/book/03)
+   * lecture notes: [PDF](https://comp-think.github.io/2019-2020/lecture-notes/03.pdf)
    * exercises: [1](https://github.com/comp-think/2019-2020/issues/7), [2](https://github.com/comp-think/2019-2020/issues/8), [3](https://github.com/comp-think/2019-2020/issues/15)
    * solutions: [1](https://comp-think.github.io/keys/03/exercise-1), [2](https://comp-think.github.io/keys/03/exercise-2), [3](https://comp-think.github.io/keys/03/exercise-3)
    <hr />
 5. [21/10/19, *the*] Programming languages  
    * slides: [HTML](https://comp-think.github.io/2019-2020/slides/04%20-%20Programming%20languages.html)
-   * lecture notes: [PDF](https://comp-think.github.io/book/04.pdf), [Google Docs](https://comp-think.github.io/book/04)
+   * lecture notes: [PDF](https://comp-think.github.io/2019-2020/lecture-notes/04.pdf)
    * Python: [first_algorithm_empty.py](https://comp-think.github.io/python/first_algorithm_empty.py), [first_algorithm_no_assignments.py](https://comp-think.github.io/python/first_algorithm_no_assignments.py), [first_algorithm.py](https://comp-think.github.io/python/first_algorithm.py)
    * exercises: [1](https://github.com/comp-think/2019-2020/issues/9), [2](https://github.com/comp-think/2019-2020/issues/10), [3](https://github.com/comp-think/2019-2020/issues/11)
    * solutions: [1](https://comp-think.github.io/keys/04/exercise-1), [2](https://comp-think.github.io/keys/04/exercise-2), [3](https://comp-think.github.io/keys/04/exercise-3)
@@ -52,7 +52,7 @@ This space contains all the material related to the [Computational Thinking and 
     <hr />
 7. [28/10/19, *the*] Organising information: ordered structures
    * slides: [HTML](https://comp-think.github.io/2019-2020/slides/05%20-%20Organising%20information%20-%20ordered%20structures.html)
-   * lecture notes: [PDF](https://comp-think.github.io/book/05.pdf), [Google Docs](https://comp-think.github.io/book/05)
+   * lecture notes: [PDF](https://comp-think.github.io/2019-2020/lecture-notes/05.pdf)
    * Python: [define_functions.py](https://comp-think.github.io/python/define_functions.py), [list_instructions.py](https://comp-think.github.io/python/list_instructions.py), [stack_instructions.py](https://comp-think.github.io/python/stack_instructions.py), [queue_instructions.py](https://comp-think.github.io/python/queue_instructions.py)
    * exercises: [1](https://github.com/comp-think/2019-2020/issues/12), [2](https://github.com/comp-think/2019-2020/issues/13), [3](https://github.com/comp-think/2019-2020/issues/14)
    * solutions: [1](https://comp-think.github.io/keys/05/exercise-1), [2](https://comp-think.github.io/keys/05/exercise-2), [3](https://comp-think.github.io/keys/05/exercise-3)
@@ -62,7 +62,7 @@ This space contains all the material related to the [Computational Thinking and 
    <hr />
 9. [4/11/19, *the*] Brute-force algorithms
    * slides: [HTML](https://comp-think.github.io/2019-2020/slides/06%20-%20Brute-force%20algorithms.html)
-   * lecture notes: [PDF](https://comp-think.github.io/book/06.pdf), [Google Docs](https://comp-think.github.io/book/06)
+   * lecture notes: [PDF](https://comp-think.github.io/2019-2020/lecture-notes/06.pdf)
    * Python: [stack_from_list.py](https://comp-think.github.io/python/stack_from_list.py), [run_forever.py](https://comp-think.github.io/python/run_forever.py), [linear_search.py](https://comp-think.github.io/python/linear_search.py), [insertion_sort.py](https://comp-think.github.io/python/insertion_sort.py)
    * exercises: [1](https://github.com/comp-think/2019-2020/issues/16), [2](https://github.com/comp-think/2019-2020/issues/17), [3](https://github.com/comp-think/2019-2020/issues/18), [4](https://github.com/comp-think/2019-2020/issues/19), [5](https://github.com/comp-think/2019-2020/issues/20)
    * solutions: [1](https://comp-think.github.io/keys/06/exercise-1), [2](https://comp-think.github.io/keys/06/exercise-2), [3](https://comp-think.github.io/keys/06/exercise-3), [4](https://comp-think.github.io/keys/06/exercise-4), [5](https://comp-think.github.io/keys/06/exercise-5)
@@ -70,7 +70,7 @@ This space contains all the material related to the [Computational Thinking and 
    <hr />
 10. [6/11/19, *the*] Organising information: unordered structures
     * slides: [HTML](https://comp-think.github.io/2019-2020/slides/07%20-%20Organising%20information%20-%20unordered%20structures.html)
-    * lecture notes: [PDF](https://comp-think.github.io/book/07.pdf), [Google Docs](https://comp-think.github.io/book/07)
+    * lecture notes: [PDF](https://comp-think.github.io/2019-2020/lecture-notes/07.pdf)
     * Python: [set_instructions.py](https://comp-think.github.io/python/set_instructions.py), [dictionary_instructions.py](https://comp-think.github.io/python/dictionary_instructions.py)
     * exercises: [1](https://github.com/comp-think/2019-2020/issues/22), [2](https://github.com/comp-think/2019-2020/issues/23), [3](https://github.com/comp-think/2019-2020/issues/24)
     * solutions: [1](https://comp-think.github.io/keys/07/exercise-1), [2](https://comp-think.github.io/keys/07/exercise-2), [3](https://comp-think.github.io/keys/07/exercise-3)
@@ -92,7 +92,7 @@ This space contains all the material related to the [Computational Thinking and 
     <hr />
 12. [11/11/19, *the*] Recursion
     * slides: [HTML](https://comp-think.github.io/2019-2020/slides/08%20-%20Recursion.html)
-    * lecture notes: [PDF](https://comp-think.github.io/book/08.pdf), [Google Docs](https://comp-think.github.io/book/08)
+    * lecture notes: [PDF](https://comp-think.github.io/2019-2020/lecture-notes/08.pdf)
     * Python: [run_forever_recursive.py](https://comp-think.github.io/python/run_forever_recursive.py), [multiplication.py](https://comp-think.github.io/python/multiplication.py)
     * exercises: [1](https://github.com/comp-think/2019-2020/issues/25), [2](https://github.com/comp-think/2019-2020/issues/26)
     * solutions: [1](https://comp-think.github.io/keys/08/exercise-1), [2](https://comp-think.github.io/keys/08/exercise-2)
@@ -105,7 +105,7 @@ This space contains all the material related to the [Computational Thinking and 
     <hr />
 15. [18/11/19, *the*] Divide and conquer algorithms
     * slides: [HTML](https://comp-think.github.io/2019-2020/slides/09%20-%20Divide%20and%20conquer%20algorithms.html)
-    * lecture notes: [PDF](https://comp-think.github.io/book/09.pdf), [Google Docs](https://comp-think.github.io/book/09)
+    * lecture notes: [PDF](https://comp-think.github.io/2019-2020/lecture-notes/09.pdf)
     * Python: [immutable_values.py](https://comp-think.github.io/python/immutable_values.py), [mutable_values.py](https://comp-think.github.io/python/mutable_values.py), [immutable_and_mutable_variables.py](https://comp-think.github.io/python/immutable_and_mutable_variables.py), [merge.py](https://comp-think.github.io/python/merge.py), [merge_sort.py](https://comp-think.github.io/python/merge_sort.py)
     * exercises: [1](https://github.com/comp-think/2019-2020/issues/27), [2](https://github.com/comp-think/2019-2020/issues/28), [3](https://github.com/comp-think/2019-2020/issues/29)
     * solutions: [1](https://comp-think.github.io/keys/09/exercise-1), [2](https://comp-think.github.io/keys/09/exercise-2), [3](https://comp-think.github.io/keys/09/exercise-3)
@@ -115,7 +115,7 @@ This space contains all the material related to the [Computational Thinking and 
     <hr />
 17. [25/11/19, *the*] Dynamic programming algorithms
     * slides: [HTML](https://comp-think.github.io/2019-2020/slides/10%20-%20Dynamic%20programming%20algorithms.html)
-    * lecture notes: [PDF](https://comp-think.github.io/book/10.pdf), [Google Docs](https://comp-think.github.io/book/10)
+    * lecture notes: [PDF](https://comp-think.github.io/2019-2020/lecture-notes/10.pdf)
     * Python: [fib_dc.py](https://comp-think.github.io/python/fib_dc.py), [fib_dp.py](https://comp-think.github.io/python/fib_dp.py)
     * exercises: [1](https://github.com/comp-think/2019-2020/issues/30), [2](https://github.com/comp-think/2019-2020/issues/31)
     * solutions: [1](https://comp-think.github.io/keys/10/exercise-1), [2](https://comp-think.github.io/keys/10/exercise-2)
@@ -125,21 +125,21 @@ This space contains all the material related to the [Computational Thinking and 
     <hr />
 19. [02/12/19, *the*] Organising information: trees
     * slides: [HTML](https://comp-think.github.io/2019-2020/slides/11%20-%20Organising%20information%20-%20trees.html)
-    * lecture notes: [PDF](https://comp-think.github.io/book/11.pdf), [Google Docs](https://comp-think.github.io/book/11)
+    * lecture notes: [PDF](https://comp-think.github.io/2019-2020/lecture-notes/11.pdf)
     * Python: [tree_instructions.py](https://comp-think.github.io/python/tree_instructions.py)
     * exercises: [1](https://github.com/comp-think/2019-2020/issues/32), [2](https://github.com/comp-think/2019-2020/issues/33)
     * solutions: [1](https://comp-think.github.io/keys/11/exercise-1), [2](https://comp-think.github.io/keys/11/exercise-2)
     <hr />
 20. [04/12/19, *the*] Backtracking algorithms
     * slides: [HTML](https://comp-think.github.io/2019-2020/slides/12%20-%20Backtracking%20algorithms.html)
-    * lecture notes: [PDF](https://comp-think.github.io/book/12.pdf), [Google Docs](https://comp-think.github.io/book/12)
+    * lecture notes: [PDF](https://comp-think.github.io/2019-2020/lecture-notes/12.pdf)
     * Python: [peg_solitaire.py](https://comp-think.github.io/python/peg_solitaire.py)
     * exercises: [1](https://github.com/comp-think/2019-2020/issues/34), [2](https://github.com/comp-think/2019-2020/issues/35)
     * solutions: [1](https://comp-think.github.io/keys/12/exercise-1), [2](https://comp-think.github.io/keys/12/exercise-2)
     <hr />
 21. [09/12/19, *the*] Organising information: graphs
     * slides: [HTML](https://comp-think.github.io/2019-2020/slides/13%20-%20Organising%20information%20-%20graphs.html)
-    * lecture notes: [PDF](https://comp-think.github.io/book/13.pdf), [Google Docs](https://comp-think.github.io/book/13)
+    * lecture notes: [PDF](https://comp-think.github.io/2019-2020/lecture-notes/13.pdf)
     * Python: [graph_instructions.py](https://comp-think.github.io/python/graph_instructions.py), [multigraph_instructions.py](https://comp-think.github.io/python/multigraph_instructions.py), [graph_attribute_instructions.py](https://comp-think.github.io/python/graph_attribute_instructions.py)
     * exercises: [1](https://github.com/comp-think/2019-2020/issues/36), [2](https://github.com/comp-think/2019-2020/issues/37)
     * solutions: [1](https://comp-think.github.io/keys/13/exercise-1), [2](https://comp-think.github.io/keys/13/exercise-2)
@@ -165,7 +165,7 @@ This space contains all the material related to the [Computational Thinking and 
     <hr />
 24. [16/12/19, *the*] Greedy algorithms
     * slides: [HTML](https://comp-think.github.io/2019-2020/slides/15%20-%20Greedy%20algorithms.html)
-    * lecture notes: [PDF](https://comp-think.github.io/book/14.pdf), [Google Docs](https://comp-think.github.io/book/14)
+    * lecture notes: [PDF](https://comp-think.github.io/2019-2020/lecture-notes/14.pdf)
     * Python: [line_wrap.py](https://comp-think.github.io/python/line_wrap.py)
     * exercises: [1](https://github.com/comp-think/2019-2020/issues/38), [2](https://github.com/comp-think/2019-2020/issues/39)
     * solutions: [1](https://comp-think.github.io/keys/14/exercise-1), [2](https://comp-think.github.io/keys/14/exercise-2)
